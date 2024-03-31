@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: gui.Notepad
+Class-Path: miglayout-swing.jar miglayout-core.jar fastjson-1.2.83.jar
+
